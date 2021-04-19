@@ -1,14 +1,14 @@
 # Hello World 🌎, I'm Tyler!
 
 ## About Me
-I'm a web developer inspired by bringing ideas 💡 into relity 🚀
+I'm a web developer inspired by bringing ideas 💡 into reality 🚀
 
 - 🔭 I’m currently working on [💻 CoderHereos](https://github.com/CoderHeroes/codeyourdreams-frontend), [⛰ Parkway](https://github.com/tyler-morales/NationalParkWebApp) & [💸 Educational Investment Game](https://github.com/The-Design-Lab/EAC-game)
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Parkway (National Parks aggregator & display)
 - 🤔 I’m looking for help with Server Side Rendering (SSR) vs. Static Site Generation
 - 💬 Ask me about JS frameworks (Vue vs. React)
-- 📫 How to reach me: Visit my website!
+- 📫 How to reach me: Visit my [website](https://tmo.codes)!
 - 😄 Pronouns: He/ Him/ His
 - ⚡ Fun fact: My longest bike ride was 107+ mi 🚴🏻‍♂️
 
@@ -21,10 +21,14 @@ I'm a web developer inspired by bringing ideas 💡 into relity 🚀
 [![Vue Badge](https://img.shields.io/badge/-Vue-4FC08D?style=for-the-badge&labelColor=black&logo=vue.js&logoColor=4FC08D)](#)
 
 ### CSS Frameworks/ Tools
+[![Tailwind Badge](https://img.shields.io/badge/-tailwind-38B2AC?style=for-the-badge&labelColor=black&logo=tailwind-css&logoColor=38B2AC)](#)
 [![Sass Badge](https://img.shields.io/badge/-sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)
 [![Styled-Components Badge](https://img.shields.io/badge/-styledcomponents-DB7093?style=for-the-badge&labelColor=black&logo=styled-components&logoColor=#DB7093)](#)
-[![Tailwind Badge](https://img.shields.io/badge/-tailwind-38B2AC?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=38B2AC)](#)
 
+## 📬 Contact Me
+[![Linkedn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0A66C2link=https://www.linkedin.com/in/tyler-morales-web-dev/)](https://www.linkedin.com/in/tyler-morales-web-dev/)
+[![Email Badge](https://img.shields.io/badge/-Email-aqua?style=for-the-badge&labelColor=black&logo=mail.ru&logoColor=aqua)](mailto:tyler.morales.dev@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&labelColor=black&logo=google-earth&logoColor=green)](https://tmo.codes)
 
 ## Github Stats
 <div>
@@ -56,7 +60,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## 📬 Contact Me
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+
 
 -->
