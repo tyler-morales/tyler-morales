@@ -3,7 +3,7 @@
 ## About Me
 I'm a web developer inspired by bringing ideas 💡 into reality 🚀
 
-- 🔭 I’m currently working on 🎲 GameNight](https://github.com/tyler-morales/game-night)
+- 🔭 I’m currently working on [🎲 GameNight](https://github.com/tyler-morales/game-night)
 - 🌱 I’m currently learning AWS & Graphql
 - 🤔 I’m looking for help with Server Side Rendering (SSR) vs. Static Site Generation
 - 💬 Ask me about JS frameworks (Vue vs. React)
