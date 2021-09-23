@@ -3,9 +3,8 @@
 ## About Me
 I'm a web developer inspired by bringing ideas 💡 into reality 🚀
 
-- 🔭 I’m currently working on [💻 CoderHereos](https://github.com/CoderHeroes/codeyourdreams-frontend), [⛰ Parkway](https://github.com/tyler-morales/NationalParkWebApp) & [💸 Educational Investment Game](https://github.com/The-Design-Lab/EAC-game)
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Parkway (National Parks aggregator & display)
+- 🔭 I’m currently working on 🎲 GameNight](https://github.com/tyler-morales/game-night)
+- 🌱 I’m currently learning AWS & Graphql
 - 🤔 I’m looking for help with Server Side Rendering (SSR) vs. Static Site Generation
 - 💬 Ask me about JS frameworks (Vue vs. React)
 - 📫 How to reach me: Visit my [website](https://tmo.codes)!
