@@ -3,9 +3,9 @@
 ## About Me
 I'm a Full Stack Web developer inspired by bringing ideas 💡 into reality 🚀
 
-- 🔭 I’m currently working on a Full Stack web app, [🎲 GameNight](https://github.com/tyler-morales/game-night)
+- 🔭 I’m currently working on a Full Stack web app, [🏞 Parkway](https://github.com/tyler-morales/visit-national-parks)
 - 🌱 I’m currently learning AWS & Graphql
-- 🤔 I’m looking for help with Server Side Rendering (SSR) vs. Static Site Generation
+- 🤔 I’m looking for help with deciding when to use SSR, SSG and CSR with Next.js
 - 💬 Ask me about JS frameworks (Vue vs. React)
 - 📫 How to reach me: Visit my [website](https://tmo.codes)!
 - 😄 Pronouns: He/ Him/ His
