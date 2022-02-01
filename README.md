@@ -7,7 +7,7 @@ I'm a Full Stack Web developer inspired by bringing ideas 💡 into reality 🚀
 - 🌱 I’m currently learning AWS & Graphql
 - 🤔 I’m looking for help with deciding when to use SSR, SSG and CSR with Next.js
 - 💬 Ask me about JS frameworks (Vue vs. React)
-- 📫 How to reach me: Visit my [website](https://tmo.codes)!
+- 📫 How to reach me: Visit my [website](https://tylermorales.dev)!
 - 😄 Pronouns: He/ Him/ His
 - ⚡ Fun fact: My longest bike ride was 107+ mi 🚴🏻‍♂️
 
