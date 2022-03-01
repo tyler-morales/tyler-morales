@@ -3,7 +3,7 @@
 ## About Me
 I'm a Full Stack Web developer inspired by bringing ideas 💡 into reality 🚀
 
-- 🔭 I’m currently working on a Full Stack web app, [🏞 Parkway](https://github.com/tyler-morales/visit-national-parks)
+- 🚀 I've released a stable version v1.0.0 of [Parkway– website](https://visitnationalparks.us), [Repo](https://github.com/tyler-morales/visit-national-parks)
 - 🌱 I’m currently learning AWS & Graphql
 - 🤔 I’m looking for help with deciding when to use SSR, SSG and CSR with Next.js
 - 💬 Ask me about JS frameworks (Vue vs. React)
