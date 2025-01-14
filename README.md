@@ -3,10 +3,8 @@
 ## About Me
 I'm a Full Stack Web developer inspired by bringing ideas 💡 into reality 🚀
 
-- 🚀 I've released a stable version v1.0.0 of [Parkway– website](https://visitnationalparks.us), [Repo](https://github.com/tyler-morales/visit-national-parks)
-- 🌱 I’m currently learning AWS & Graphql
-- 🤔 I’m looking for help with deciding when to use SSR, SSG and CSR with Next.js
-- 💬 Ask me about JS frameworks (Vue vs. React)
+- 🚀 I'm building my digital library of physical books [Tyler's Books– website](https://tylermorales/tylers-books), [Repo](https://github.com/tyler-morales/tylers-books)
+- 🌐 Interesting in web 1.0 and its fun and playful aesthetic 
 - 📫 How to reach me: Visit my [website](https://tylermorales.dev)!
 - 😄 Pronouns: He/ Him/ His
 - ⚡ Fun fact: My longest bike ride was 107+ mi 🚴🏻‍♂️
