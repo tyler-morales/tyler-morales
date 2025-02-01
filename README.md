@@ -4,6 +4,7 @@
 I'm a Full Stack Web developer inspired by bringing ideas 💡 into reality 🚀
 
 - 🚀 I'm building my digital library of physical books [Tyler's Books– website](https://tylermorales.pro/tylers-books/), [Repo](https://github.com/tyler-morales/tylers-books)
+- 🏗️ I'm currently building a Digital Art Gallery [Habitat Gallery](https://github.com/tyler-morales/the-habitat-gallery),
 - 🌐 Interesting in web 1.0 and its fun and playful aesthetic 
 - 📫 How to reach me: Visit my [website](https://tylermorales.dev)!
 - 😄 Pronouns: He/ Him/ His
